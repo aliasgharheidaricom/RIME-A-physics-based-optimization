@@ -1,3 +1,9 @@
+![GitHub](https://img.shields.io/github/license/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/RIME-A-physics-based-optimization)
+![GitHub repo size](https://img.shields.io/github/repo-size/aliasgharheidaricom/RIME-A-physics-based-optimization)
+![GitHub language count](https://img.shields.io/github/languages/count/aliasgharheidaricom/RIME-A-physics-based-optimization)
+![GitHub last commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/RIME-A-physics-based-optimization)
+
 # RIME: A physics-based optimization
 RIME A physics based optimization
 
