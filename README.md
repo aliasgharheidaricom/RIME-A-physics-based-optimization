@@ -27,6 +27,22 @@ Su, Hang, Dong Zhao, Ali Asghar Heidari, Lei Liu, Xiaoqin Zhang, Majdi Mafarja, 
 DOI: https://doi.org/10.1016/j.neucom.2023.02.010
   _____________________________________________________
 
+  _____________________________________________________
+  Author, inventor and programmer: Su, Hang, Ali Asghar Heidari and Huiling Chen
+  
+  PhD research intern, Department of Computer Science, School of Computing, National University of Singapore, Singapore
+  Exceptionally Talented Ph. DC funded by Iran's National Elites Foundation (INEF), University of Tehran
+
+         e-Mail: aliasghar68@gmail.com, as_heidari@ut.ac.ir
+                 
+
+       Homepage: https://www.researchgate.net/profile/Ali_Asghar_Heidari  
+ _____________________________________________________
+
+  Co-authors:  Dong Zhao, Lei Liu, Xiaoqin Zhang, Majdi Mafarja 
+
+       
+
 
 
 
@@ -50,3 +66,8 @@ DOI: https://doi.org/10.1016/j.neucom.2023.02.010
 <div align="center">
   <img src="Figure 5 Hard-rime puncturing.png">
 </div>
+## Support
+
+Support this high quality research by 'FORK', 'STAR' and 'SHARE'.
+
+[![Forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
