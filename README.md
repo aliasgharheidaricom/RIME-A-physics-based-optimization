@@ -66,7 +66,7 @@ DOI: https://doi.org/10.1016/j.neucom.2023.02.010
 <div align="center">
   <img src="Figure 5 Hard-rime puncturing.png">
 </div>
-## Support
+
 
 Support this high quality research by 'FORK', 'STAR' and 'SHARE'.
 
